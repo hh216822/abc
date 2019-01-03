@@ -32,7 +32,7 @@
 ![image](https://github.com/hh216822/abc/blob/master/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%A8%AD%E8%A8%88%E7%AC%AC%E4%B8%89%E7%B5%84_p009.jpg)
 
 # 類別圖
-![image](https://github.com/hh216822/abc/blob/master/%E7%AC%AC3%E7%B5%84%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A%E6%95%B4%E5%90%88_p006.jpg)
+![image](https://github.com/hh216822/abc/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.jpg)
 
 # 一、投票人基本資料作業
 ## 使用案例
